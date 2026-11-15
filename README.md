@@ -48,6 +48,32 @@
 
 <br>
 
+## 🎓 Formación & Certificaciones
+
+<!-- BLOQUE 1: INSIGNIAS OFICIALES (CREDLY) -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="160">
+        <a href="https://www.credly.com/earner/earned/badge/6a91f5e5-61a4-4b85-b8c9-6122cd361eef" target="_blank">
+          <img src="https://images.credly.com/images/be625773-6d9f-48c0-b530-81897b58b1bf/image.png" width="105" alt="Certificación 1" />
+        </a>
+        <br />
+        <sub><b>Certificado de Ciberseguridad de Google</b></sub>
+      </td>
+      <td align="center" width="160">
+        <a href="https://images.credly.com/size/340x340/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" target="_blank">
+          <img src="" width="105" alt="Certificación 2" />
+        </a>
+        <br />
+        <sub><b>Google AI Essentials V1</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
 ### ⚙️ &nbsp;GitHub Analytics & Estadísticas
 
 <p align="center">
