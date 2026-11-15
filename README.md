@@ -4,7 +4,7 @@
   <h3>Senior Software Developer | Tech Lead | Full-Stack & Cloud Enthusiast</h3>
 </div>
 
-<img src="./assets/banner.png" width="100%" alt="Banner de presentación">
+<img src="./assets/github-header-banner.png" width="100%" alt="Banner de presentación">
 
 <!-- BADGES / INSIGNIAS DE CONTACTO Y REDES -->
 <p align="center">
