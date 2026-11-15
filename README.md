@@ -4,8 +4,7 @@
   <h3>Senior Software Developer | Tech Lead | Full-Stack & Cloud Enthusiast</h3>
 </div>
 
-<!-- Reemplaza la URL de esta imagen con un banner que te guste (o usa uno propio) -->
-<img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1200&auto=format&fit=crop" width="100%" alt="Banner de presentación">
+<img src="./assets/banner.png" width="100%" alt="Banner de presentación">
 
 <!-- BADGES / INSIGNIAS DE CONTACTO Y REDES -->
 <p align="center">
