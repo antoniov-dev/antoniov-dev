@@ -48,7 +48,7 @@
 
 <br>
 
-## 🎓 Formación & Certificaciones
+## 🎯 Hitos & Certificaciones
 
 <!-- BLOQUE 1: INSIGNIAS OFICIALES (CREDLY) -->
 <div align="center">
