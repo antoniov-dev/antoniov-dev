@@ -50,21 +50,22 @@
 
 ## 🎯 Hitos & Certificaciones
 
-<!-- BLOQUE 1: INSIGNIAS OFICIALES (CREDLY) -->
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="160">
+      <td align="center" width="210" valign="top">
         <a href="https://www.credly.com/earner/earned/badge/6a91f5e5-61a4-4b85-b8c9-6122cd361eef" target="_blank">
-          <img src="https://images.credly.com/images/be625773-6d9f-48c0-b530-81897b58b1bf/image.png" width="105" alt="Certificado de Ciberseguridad de Google" />
+          <img src="https://images.credly.com/images/be625773-6d9f-48c0-b530-81897b58b1bf/image.png" width="110" alt="Certificado de Ciberseguridad de Google" />
         </a>
+        <br />
         <br />
         <sub><b>Certificado de Ciberseguridad de Google</b></sub>
       </td>
-      <td align="center" width="160">
+      <td align="center" width="210" valign="top">
         <a href="https://www.credly.com/earner/earned/badge/b9b340bc-96b3-4cb6-97a2-cbb97fced498" target="_blank">
-          <img src="https://images.credly.com/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" width="105" alt="Google AI Essentials V1" />
+          <img src="https://images.credly.com/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" width="110" alt="Google AI Essentials V1" />
         </a>
+        <br />
         <br />
         <sub><b>Google AI Essentials V1</b></sub>
       </td>
