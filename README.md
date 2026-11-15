@@ -24,10 +24,10 @@
 
 ## 🚀 Sobre mí
 
-- 💻 **Rol:** Tech Lead y Senior Full-Stack Developer especializado en ecosistemas web robustos y pasarelas de pagos.
-- ⚙️ **Enfoque actual:** Automatización de flujos con GitHub Actions, arquitectura limpia y migración hacia entornos en la nube.
-- 🔭 **Explorando:** Contenedores con Docker, infraestructura como código y optimización de rendimiento en bases de datos.
-- 💡 **Filosofía:** Escribir código mantenible, diseñar arquitecturas escalables y guiar equipos hacia las mejores prácticas de ingeniería.
+- 💻 **Rol:** Tech Lead y Senior Full-Stack Developer especializado en ecosistemas web robustos, APIs REST y sistemas financieros/de pagos.
+- ⚙️ **Enfoque actual:** Diseño de arquitecturas escalables, automatización de flujos con GitHub Actions y estándares de calidad de código en equipo.
+- 🔭 **Explorando:** Arquitecturas en la nube (Cloud), contenedores y despliegue continuo (CI/CD).
+- 💡 **Filosofía:** Construir software limpio, desacoplado y mantenible, impulsando las mejores prácticas de ingeniería.
 
 <br>
 
