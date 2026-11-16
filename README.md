@@ -9,13 +9,13 @@
 <!-- BADGES / INSIGNIAS DE CONTACTO Y REDES -->
 
 <p align="center">
-  <a href="https://linkedin.com/in/antoniov-dev" target="_blank">
+  <a href="https://www.linkedin.com/in/antonio-vargasp/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://antoniov-dev.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portafolio_%26_Blog-%23111827.svg?style=flat&logo=githubpages&logoColor=white" alt="Portafolio" />
   </a>
-  <a href="mailto:joseantonio.vargas@ejemplo.com">
+  <a href="mailto:">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
